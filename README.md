@@ -49,3 +49,6 @@ Bringing machine 'default' up with 'virtualbox' provider...
 
 9 - To destroy the box, use vagrant destroy.
 
+10- not forgot add in wp-config.php file this code  :  define('FS_METHOD','direct');
+
+
